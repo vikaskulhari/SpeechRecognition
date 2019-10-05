@@ -4,3 +4,7 @@ Python's recommended version - 3.6
 Applications
 UiPath 19.8
 Python
+
+Get the below python libraries
+[1] pip install SpeechRecognition
+[2] pip install PyAudio
